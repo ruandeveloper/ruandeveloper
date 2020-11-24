@@ -1,4 +1,4 @@
-### Fala ae meu consagrado!
+### A angular, firebase and flutter enthusiastic
 
 <!--
 **ruandeveloper/ruandeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
