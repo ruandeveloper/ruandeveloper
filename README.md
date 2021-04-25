@@ -4,10 +4,10 @@
   <img align="left" alt="Ruan LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br/><br />
+<br />
 
 
-Olá, sou o Ruan, um desenvolvedor Full Stack</p>
+Olá, sou o **Ruan**, um desenvolvedor Full Stack</p>
 
 **Linguagens e ferramentas:**  
 
