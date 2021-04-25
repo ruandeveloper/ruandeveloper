@@ -5,7 +5,7 @@
 </a>
 
 <br />
-
+<br />
 
 Olá, sou o **Ruan**, um desenvolvedor Full Stack</p>
 
