@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Olá, sou o **Ruan**, desenvolvedor Full Stack
+Olá, sou o **Ruan**, desenvolvedor front-end
 
 **Linguagens e ferramentas:** 
 
