@@ -10,7 +10,9 @@
 <br />
 <br />
 
-Olá, sou o **Ruan**, desenvolvedor front-end
+Atuo como desenvolvedor front-end Angular e tenho mais de 6 anos de experiência na área. 
+
+Além do Angular, tenho experiência com CSS e seus pré-processadores (Sass/SCSS), testes unitários utilizando Jest e Spectator, gerenciamento de estado com RxJS, design system e Storybook. 
 
 **Linguagens e ferramentas:** 
 
