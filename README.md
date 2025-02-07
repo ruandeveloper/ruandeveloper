@@ -10,11 +10,11 @@
 <br />
 <br />
 
-Atuo como desenvolvedor front-end Angular e tenho mais de 6 anos de experiência na área. 
+I’m a front-end developer with over 6 years of experience, specializing in Angular and modern web development.
 
-Além do Angular, tenho experiência com CSS e seus pré-processadores (Sass/SCSS), testes unitários utilizando Jest e Spectator, gerenciamento de estado com RxJS, design system e Storybook. 
+💡 Beyond Angular, I have expertise in CSS and its pre-processors (Sass/SCSS), unit testing with Jest and Spectator, state management using RxJS, and design systems with Storybook.
 
-**Linguagens e ferramentas:** 
+🛠️ **Languages & Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
