@@ -10,9 +10,10 @@
 <br />
 <br />
 
-I’m a front-end developer with over 6 years of experience, specializing in Angular and modern web development.
+I’m a front-end developer with over 7 years of experience, specializing in Angular and modern web development.
+- My main stacks include: Angular, JavaScript, TypeScript, RxJS, CSS, SASS, TailwindCSS, Jasmine, Jest, Spectator, Storybook, Micro-frontends, Jenkins, Figma, and Ionic (CapacitorJS).
+- I also have solid backend experience using C#, .Net Core, NestJS, PostgreSQL, SQL Server, MongoDB, RabbitMQ, Firebase (Firestore, Cloud Functions), Google Cloud, and AWS.
 
-💡 Beyond Angular, I have expertise in CSS and its pre-processors (Sass/SCSS), unit testing with Jest and Spectator, state management using RxJS, and design systems with Storybook.
 
 🛠️ **Languages & Tools:**
 
